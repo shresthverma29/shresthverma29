@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I don’t just study cybersecurity — I live it. From decoding vulnerabilities to building digital shields, I see every system as a challenge and every threat as an opportunity to learn smarter, defend stronger, and grow faster.<br><br>I’m not here to follow the crowd. I’m here to outthink attackers, engineer trust, and build systems that don’t blink under pressure.<br><br>Currently pursuing BTech in Cybersecurity, I specialize in ethical hacking, threat analysis, and turning curiosity into code. If it’s secure, I’ve probably tested it. If it’s not, I’m already working on it.<br><br>Let’s connect — because digital defense is a team sport, and I play to win.
 
 
